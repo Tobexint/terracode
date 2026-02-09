@@ -1,0 +1,7 @@
+*.json
+terra/keys/my-creds.json
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+terra/keys/my-creds.json
